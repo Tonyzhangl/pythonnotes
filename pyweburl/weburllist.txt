@@ -1,0 +1,6 @@
+#平日收集的一些好的python技术站点和资料
+1、 理解如何使用一个节点转换器注入指令代码来测试程序
+http://www.tudou.com/programs/view/5IHp-wxyt3c/
+
+2、使用AST 访问器 (visitor) 来处理源代码并根据函数签名生成测试的项目
+http://pythoscope.org/
