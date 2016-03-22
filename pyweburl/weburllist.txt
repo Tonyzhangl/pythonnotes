@@ -4,3 +4,6 @@ http://www.tudou.com/programs/view/5IHp-wxyt3c/
 
 2、使用AST 访问器 (visitor) 来处理源代码并根据函数签名生成测试的项目
 http://pythoscope.org/
+
+3、 pycoder's weekly
+http://www.pycoders.com/archive/
