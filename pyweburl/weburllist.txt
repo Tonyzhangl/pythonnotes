@@ -23,3 +23,5 @@ http://www.pycoders.com/archive/
 https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/
 
 10、http://nando.oui.com.br/
+
+11、http://www.pythonblogs.com/
