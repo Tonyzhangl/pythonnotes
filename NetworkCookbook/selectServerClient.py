@@ -25,7 +25,9 @@ def receive(channel):
         size = socket.ntohl(struct.unpack("L", size)[0])
     except struct.error, e:
         return ''
-    buf = " "
+    buf = ""
+    # import pdb
+    # pdb.set_trace()
     while len(buf) < size:
         buf = channel.recv(size - len(buf))
     return cPickle.loads(buf)[0]
@@ -39,7 +41,7 @@ class ChatServer(object):
         self.server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self.server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
         self.server.bind((SERVER_HOST, port))
-        print "Servver listening to port: %s..." % port
+        print "Server listening to port: %s..." % port
         self.server.listen(backlog)
         signal.signal(signal.SIGINT, self.sighandler)
 
@@ -66,6 +68,7 @@ class ChatServer(object):
             for sock in readable:
                 if sock == self.server:
                     client, address = self.server.accept()
+                    # import pdb; pdb.set_trace()
                     print "Chat server: got connection: %d from %s" % (client.fileno(), address)
                     cname = receive(client).split('NAME: ')[1]
                     self.clients += 1
