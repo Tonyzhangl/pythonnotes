@@ -1,4 +1,4 @@
-#平日收集的一些好的python技术站点和资料
+﻿#平日收集的一些好的python技术站点和资料
 1、 理解如何使用一个节点转换器注入指令代码来测试程序
 http://www.tudou.com/programs/view/5IHp-wxyt3c/
 
@@ -7,3 +7,19 @@ http://pythoscope.org/
 
 3、 pycoder's weekly
 http://www.pycoders.com/archive/
+
+
+4、http://www.pythonabc.com/
+
+5、https://blog.scrapinghub.com/
+
+6、http://python-notes.curiousefficiency.org/en/latest/
+
+7、https://blog.fugue.co/
+
+8、https://ruslanspivak.com/
+
+9、配置sublime环境（全栈式python工程师）
+https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/
+
+10、http://nando.oui.com.br/
