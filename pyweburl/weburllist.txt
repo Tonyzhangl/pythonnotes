@@ -25,3 +25,9 @@ https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-pyth
 10、http://nando.oui.com.br/
 
 11、http://www.pythonblogs.com/
+
+12、http://www.tutorialspoint.com/python/python_classes_objects.htm
+
+13、https://jeffknupp.com/
+
+14、http://siberiawolf.com/free_programming/index.html
