@@ -31,3 +31,7 @@ https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-pyth
 13、https://jeffknupp.com/
 
 14、http://siberiawolf.com/free_programming/index.html
+
+15、http://www.acmerblog.com/
+
+16、http://acm.nyist.net/JudgeOnline/problemset.php
