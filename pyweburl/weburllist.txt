@@ -17,7 +17,8 @@ http://www.pycoders.com/archive/
 
 7、https://blog.fugue.co/
 
-8、https://ruslanspivak.com/
+8、python 服务器编程blog
+https://ruslanspivak.com/
 
 9、配置sublime环境（全栈式python工程师）
 https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/
@@ -30,10 +31,17 @@ https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-pyth
 
 13、https://jeffknupp.com/
 
-14、http://siberiawolf.com/free_programming/index.html
+14、免费的编程中文书籍索引
+http://siberiawolf.com/free_programming/index.html
 
 15、http://www.acmerblog.com/
 
 16、http://acm.nyist.net/JudgeOnline/problemset.php
 
-17、http://article.yeeyan.org/view/311527/287706
+17、python神器方法指南
+http://article.yeeyan.org/view/311527/287706
+
+18、 https://www.zybuluo.com/illuz/note/71868
+
+19、爬虫系列
+https://blog.scrapinghub.com/
