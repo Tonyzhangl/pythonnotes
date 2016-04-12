@@ -45,3 +45,9 @@ http://article.yeeyan.org/view/311527/287706
 
 19、爬虫系列
 https://blog.scrapinghub.com/
+
+20、pythonnotes
+http://python-notes.curiousefficiency.org/en/latest/
+
+21、python wheel
+http://pythonwheels.com/
