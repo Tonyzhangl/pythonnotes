@@ -51,3 +51,6 @@ http://python-notes.curiousefficiency.org/en/latest/
 
 21、python wheel
 http://pythonwheels.com/
+
+22、开源软件架构
+http://aosabook.org/en/index.html
