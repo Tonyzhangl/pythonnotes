@@ -54,3 +54,6 @@ http://pythonwheels.com/
 
 22、开源软件架构
 http://aosabook.org/en/index.html
+
+23、websocket
+http://www.html5rocks.com/zh/tutorials/websockets/basics/
