@@ -57,3 +57,9 @@ http://aosabook.org/en/index.html
 
 23、websocket
 http://www.html5rocks.com/zh/tutorials/websockets/basics/
+
+24、利用python 四步掌握数据分析
+http://www.afenxi.com/post/8798
+
+25、算法与数学之美
+http://www.matrix67.com
