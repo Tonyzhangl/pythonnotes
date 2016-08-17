@@ -63,3 +63,6 @@ http://www.afenxi.com/post/8798
 
 25、算法与数学之美
 http://www.matrix67.com
+
+26、免编译python库资源
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
